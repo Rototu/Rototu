@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Rototu/Rototu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 🎓
 
-Here are some ideas to get you started:
+I am Emanuel, a fourth-year student at the University of Oxford studying Computer Science and Philosophy. Most of my past programming experience is with JavaScript but through the past few years I've been working on learning other programming languages such as *C++, Python, Kotlin, Haskell, Go and F#*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Me](me.jpg){:width="100%"}
+
+## Some facts about me 😎
+
+🔭 I’m currently working on [a full stack e-commerce platform](https://github.com/Rototu/storefront)  written in Go and F#.  
+🌱 I’m currently learning: Kubernetes, Go and F#  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emanuel-farauanu/)  
+⚡ Fun fact: I have two greyhounds, Bella and Ariel.  
