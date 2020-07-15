@@ -3,8 +3,7 @@
 ## About me 🎓
 
 I am Emanuel, a fourth-year student at the University of Oxford studying Computer Science and Philosophy. Most of my past programming experience is with JavaScript but through the past few years I've been working on learning other programming languages such as *C++, Python, Kotlin, Haskell, Go and F#*.
-
-![Me](me.jpg)
+![Me](https://i.ibb.co/X5mnDGt/me.jpg)
 
 ## Some facts about me 😎
 
