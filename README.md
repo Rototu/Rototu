@@ -9,6 +9,6 @@ I am Emanuel, a fourth-year student at the University of Oxford studying Compute
 ## 😎 Some facts about me
 
 🔭 I’m currently working on [a full stack e-commerce platform](https://github.com/Rototu/storefront)  written in Go and F#.  
-🌱 I’m currently learning: Kubernetes, Go and F#  
+🌱 I’m currently learning: Vue.js, AWS, Go and F#  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emanuel-farauanu/)  
 ⚡ Fun fact: I have two greyhounds, Bella and Ariel.  
