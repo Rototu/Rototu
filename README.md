@@ -4,7 +4,7 @@
 
 I am Emanuel, a fourth-year student at the University of Oxford studying Computer Science and Philosophy. Most of my past programming experience is with **JavaScript** but through the past few years I've been slowly working on learning other programming languages such as **C++**, **Python**, **Kotlin**, **Rust**, **Go** and **Elm**.
 
-![Me]https://i.ibb.co/mDsFCX2/IMG-20190907-194613-156.jpg
+![Me](https://i.ibb.co/mDsFCX2/IMG-20190907-194613-156.jpg)
 
 ## 😎 Some facts about me
 
