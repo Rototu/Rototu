@@ -10,6 +10,6 @@ Most of my past programming experience is with **JavaScript** but through the pa
 
 ## 😎 Some facts about me
 
-🌱 I’m currently learning Rust, as it looks like a promising language to me. 
+🌱 I’m currently learning Rust, as it looks like a promising language to me.  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emanuel-farauanu/)  
 ⚡ Fun fact: I have two greyhounds, Bella and Ariel.  
