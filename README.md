@@ -10,8 +10,5 @@ Most of my programming experience consists of building full-stack **Next.js** / 
 
 🌱 I’m currently working for: [NLPatent](https://www.nlpatent.com/)  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emanuel-farauanu/)  
-⚡ Fun fact: I have two greyhounds, Bella and Ariel.
-
-![Me](https://i.ibb.co/0D727zP/20230603-6031213-1.jpg)
 
 
